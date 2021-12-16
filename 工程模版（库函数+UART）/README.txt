@@ -1,4 +1,4 @@
-STC15系列单片机工程模版(库函数)
+Plantilla de ingenier铆a de un solo chip de la serie STC15 (funci贸n de biblioteca)
 
-说明：
-使用外设请手动包含外设驱动，并在STC15xx_config.h中取消注释对应的头文件
+instrucci贸n:
+Para usar perif茅ricos, incluya manualmente los controladores de perif茅ricos y descomente el archivo de encabezado correspondiente en STC15xx_config.h
